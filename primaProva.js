@@ -45,6 +45,9 @@ const pc = {
 
 console.log(pc.getTotale());
 
+//SISTEMI ASINCRONI
+//PORCACCIO IDDIO GUARDATE LE FUNZIONI ASINCRONE CHE NON CE SI CAPITO UN CAZZO!!!!!!!!!!!
+
     
 
 
